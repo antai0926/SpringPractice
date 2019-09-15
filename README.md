@@ -1,1 +1,1 @@
-# SpringPractice (邊學習邊Coding...逐漸增加中)
+# SpringPractice (Traditional method to use spring xml file)
